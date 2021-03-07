@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Pay attention! external path is for the files in root for EXTERNAL STORAGE and
+     NOT FOR FILES IN SUBDIRECTORY in external storage
+
+    <external-path
+        name="tempimagesext3"
+        path="images2/" />
+-->
+    <external-files-path
+        name="ExtFiles" path="share_image_"/>
+
+</paths>

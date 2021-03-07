@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="journal">Journal</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="login">LogIn</string>
+    <string name="title_text">Title</string>
+    <string name="thoughts_text">Thoughts…</string>
+    <string name="add_thoughts">Add Thoughts</string>
+    <string name="signout">Signout</string>
+</resources>
